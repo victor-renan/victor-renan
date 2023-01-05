@@ -1,4 +1,4 @@
-# Sup, my name is Renan!
+# Hello, my name is Renan!
 
 I'm a student of Full-Stack Web Development
 
