@@ -1,3 +1,5 @@
-# Hello there, my name is Renan!
+# Sup, my name is Renan!
 
-- 🌱 I’m currently learning ...
+I'm a student of Full-Stack Web Development
+
+## 🌱 I’m currently learning
