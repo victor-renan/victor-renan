@@ -1,5 +1,5 @@
-# Hello, my name is Renan!
+# Hello World, I'm Renan!
 
-I'm a student of Full-Stack Web Development
+I am a Full-Stack Web Development student. I love this area of Computer Science. My main goal is to transform ideas into reality, using the right technologies, tools and practices. Thank you very much for visiting my profile!
 
-## 🌱 I’m currently learning
+## Technologies that I use
