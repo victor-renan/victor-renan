@@ -6,4 +6,10 @@ I am a student of Full-Stack Web Development. I love this area of Computer Scien
 
 ## Statisctics
 
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-renan&layout=compact)](https://github.com/victor-renan/github-readme-stats)
+<div style="display: flex; align-items: center;">
+  <div>
+    ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=transparent)
+  </div>
+  <div>
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-renan&layout=compact)](https://github.com/victor-renan/github-readme-stats)       </div>
+</div>
