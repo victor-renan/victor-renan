@@ -6,4 +6,4 @@ I am a student of Full-Stack Web Development. I love this area of Computer Scien
 
 ##Statisctics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=transparent)
