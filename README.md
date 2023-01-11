@@ -7,4 +7,4 @@ I am a student of Full-Stack Web Development. I love this area of Computer Scien
 ## Statisctics
 
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=tokyo_night)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-renan&layout=compact&card_width=495)](https://github.com/victor-renan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-renan&layout=compact&card_width=460)](https://github.com/victor-renan/github-readme-stats)
