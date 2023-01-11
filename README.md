@@ -4,6 +4,6 @@ I am a student of Full-Stack Web Development. I love this area of Computer Scien
 
 ## Technologies that I use
 
-##Statisctics
+## Statisctics
 
 ![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=transparent)
