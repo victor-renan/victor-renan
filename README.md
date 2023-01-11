@@ -4,8 +4,6 @@ I am a student of Full-Stack Web Development. I love this area of Computer Scien
 
 ## Technologies that I use
 
-## Statisctics
-
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=transparent&card_width=400)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-renan&layout=compact&card_width=400&theme=transparent)](https://github.com/victor-renan/github-readme-stats)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
