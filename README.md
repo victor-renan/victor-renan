@@ -19,3 +19,5 @@ I am a student of Full-Stack Web Development. I love this area of Computer Scien
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-renan&theme=github_dark)
