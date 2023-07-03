@@ -28,13 +28,13 @@ I'm passionate about Computer Science, specially the Full-Stack Web Development 
 </h2>
 
 <div align="center">
-  <a href="alvesrenanpro@gmail.com">
+  <a href="mailto:alvesrenanpro@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Click_Here-aa2020?style=for-the-badge&logo=gmail&logoColor=white&link=alvesrenanpro%40gmail.com">
   </a>
-  <a href="https://www.linkedin.com/in/renan-alves-05995a20a">
+  <a href="https://www.linkedin.com/in/renan-alves-05995a20a" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-Click_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenan-alves-05995a20a%2F">
   </a>
-  <a href="https://instagram.com/alvesrenan07">
+  <a href="https://instagram.com/alvesrenan07" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Click_Here-833AB4?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Falvesrenan07)">
   </a>
 
