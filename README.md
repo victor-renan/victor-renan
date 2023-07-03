@@ -1,18 +1,38 @@
-# Hello World, I'm Renan!
+![Poster](https://i.imgur.com/ql2tK18.gif)
 
-I am a student of Full-Stack Web Development. I love this area of Computer Science. My main goal is to transform ideas into reality, using the right technologies, tools and practices. Thank you very much for visiting my profile!
+<h1 align="center">
+  Hello World, Renan here! 👋
+</h1>
 
-## Technologies that I use
+I'm passionate about Computer Science, specially the Full-Stack Web Development area. My main goal is to turn ideas into reality and solve problems, using the right technologies, tools and practices. Thank you very much for visiting my profile!
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Nest](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+<h2 align="center">
+  🛠️ Technologies that I use
+</h2>
+
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Nest](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+</div>
+
+<h2 align="center">
+  📞 Contact me
+</h2>
+
+<div align="center">
+  
+  ![Static Badge](https://img.shields.io/badge/Gmail-Click_Here-aa2020?style=for-the-badge&logo=gmail&logoColor=white&link=alvesrenanpro%40gmail.com)
+  ![Static Badge](https://img.shields.io/badge/Linkedin-Click_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenan-alves-05995a20a%2F)
+  ![Static Badge](https://img.shields.io/badge/Instagram-Click_Here-833AB4?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Falvesrenan07)
+
+  ### **Open for hiring :handshake:**
+
+</div>
