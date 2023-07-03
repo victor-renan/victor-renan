@@ -28,10 +28,15 @@ I'm passionate about Computer Science, specially the Full-Stack Web Development 
 </h2>
 
 <div align="center">
-  
-  ![Static Badge](https://img.shields.io/badge/Gmail-Click_Here-aa2020?style=for-the-badge&logo=gmail&logoColor=white&link=alvesrenanpro%40gmail.com)
-  ![Static Badge](https://img.shields.io/badge/Linkedin-Click_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenan-alves-05995a20a%2F)
-  ![Static Badge](https://img.shields.io/badge/Instagram-Click_Here-833AB4?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Falvesrenan07)
+  <a href="alvesrenanpro@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Click_Here-aa2020?style=for-the-badge&logo=gmail&logoColor=white&link=alvesrenanpro%40gmail.com">
+  </a>
+  <a href="https://www.linkedin.com/in/renan-alves-05995a20a">
+    <img src="https://img.shields.io/badge/Linkedin-Click_Here-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenan-alves-05995a20a%2F">
+  </a>
+  <a href="https://instagram.com/alvesrenan07">
+    <img src="https://img.shields.io/badge/Instagram-Click_Here-833AB4?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Falvesrenan07)">
+  </a>
 
   ### **Open for hiring :handshake:**
 
