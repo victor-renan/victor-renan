@@ -4,29 +4,33 @@
 
 Pleasure, I'm Renan. Wellcome to my profile!
 
-<table>
-<tr>
-<td>
+<table border="0">
+<tr><td width="700" valign="center">
       
 [![My Stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=codeSTACKr)](https://github.com/victor-renan/github-readme-stats)      
-</td>
-<td>
-  
-### Open for hiring 🤝
-</td>
-</tr>
+</td><td  width="700" valign="top">
+
+### Informations
+- 👨‍💻 Computer Science enthusiast.
+- 📐 Math is beautiful.
+- 🤝 Open for hiring.
+</td></tr>
 </table>
 
 
-## 🛠️ Technologies and tools
+## 🛠️ Some technologies & tools
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,typescript" />
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,react,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=django,nodejs,react,sass,bootstrap" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,docker,postgres,nginx" />
   </a>
 </div>
 
