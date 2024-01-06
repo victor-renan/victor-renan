@@ -11,28 +11,13 @@ Pleasure, I'm Renan. Wellcome to my profile!
 </td><td  width="700" valign="top">
 
 ### Informations
-- 👨‍💻 Computer Science enthusiast.
-- 📐 Math is beautiful.
+- 🖥️ Full-Stack Developer.
 - 🤝 Open for hiring.
 </td></tr>
 </table>
 
-
-## 🛠️ Some technologies & tools
-
-<div>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nodejs,react,sass,bootstrap" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,docker,postgres,nginx" />
-  </a>
-</div>
+## 🛠️ Tools that I use
+JavaScript, Python, Java & Kotlin Android, C++, Sass, ReactJS.
 
 ## 📞 Contact me
 
