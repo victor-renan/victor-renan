@@ -17,7 +17,7 @@ Pleasure, I'm Renan. Wellcome to my profile!
 </table>
 
 ## 🛠️ Tools that I use
-JavaScript, Python, Java & Kotlin Android, C++, Sass, ReactJS.
+JavaScript, Python, Java & Kotlin Android.
 
 ## 📞 Contact me
 
