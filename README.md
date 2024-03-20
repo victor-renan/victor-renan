@@ -2,7 +2,7 @@
 
 # Greetings! 👋
 
-Pleasure, I'm Renan. Wellcome to my profile!
+Pleasure, I'm Renan. Wellcome to my profile.
 
 <table border="0">
 <tr><td width="700" valign="center">
