@@ -17,7 +17,7 @@ Pleasure, I'm Renan. Wellcome to my profile.
 </table>
 
 ## 🛠️ Tools that I use
-Python, Django, PHP, Laravel, Vue, React
+Python, Django, PHP, Laravel, Javascript, Node, React, Vue
 
 ## 📞 Contact me
 
