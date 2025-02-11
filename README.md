@@ -1,35 +1,24 @@
-![POSTER](https://i.imgur.com/Yp4hXcs.jpg)
+A Full Stack developer, passionate for programming. My objective is to convert ideas into software solutions. Learning forever.
 
-# Greetings! 👋
+### 🛠️ Technologies
 
-Pleasure, I'm Renan. Wellcome to my profile.
+- PHP
+- Laravel
+- Golang
+- Typescript/Javascript
+- Vue.js
+- Tailwind
+- SQL, MySQL, Postgresql
+- Docker
+- AWS EC2
+- Git
+  
+### 🖥️ Techniques
 
-<table border="0">
-<tr><td width="700" valign="center">
-      
-[![My Stats](https://github-readme-stats.vercel.app/api?username=victor-renan&show_icons=true&theme=codeSTACKr)](https://github.com/victor-renan/github-readme-stats)      
-</td><td  width="700" valign="top">
-
-### Informations
-- 🖥️ Full-Stack Developer.
-- 🤝 Open for hiring.
-</td></tr>
-</table>
-
-## 🛠️ Tools that I use
-Python, Django, PHP, Laravel, Javascript, Node, React, Vue
-
-## 📞 Contact me
-
-<div>
-  <a href="mailto:alvesrenanpro@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-242938?style=for-the-badge&logo=gmail&logoColor=white&link=alvesrenanpro%40gmail.com">
-    
-  </a>
-  <a href="https://www.linkedin.com/in/renan-alves-05995a20a" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Linkedin-242938?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frenan-alves-05995a20a%2F">
-  </a>
-  <a href="https://instagram.com/alvesrenan07" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-242938?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Falvesrenan07)">
-  </a>
-</div>
+- Robust backends using PHP/Laravel and fancy frontends with Vue.js and TailwindCSS.
+- CLI tools with Golang and Urfave, also robust backends with Gin.
+- Container orchestration with Docker.
+- Amazon Web Services EC2 management for the deployment of applications. 
+- GitHub CI/CD (Continuos Integration / Continuous Delivering).
+- Design patterns and refatoration.
+- Security practices.
