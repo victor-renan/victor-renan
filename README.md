@@ -19,6 +19,6 @@ A Full Stack developer, passionate for programming. My objective is to convert i
 - CLI tools with Golang and Urfave, also robust backends with Gin.
 - Container orchestration with Docker.
 - Amazon Web Services EC2 management for the deployment of applications. 
-- GitHub CI/CD (Continuos Integration / Continuous Delivering).
-- Design patterns and refatoration.
+- GitHub CI/CD (Continuous Integration / Continuous Delivery).
+- Design patterns and code refatoring.
 - Security practices.
