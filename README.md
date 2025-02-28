@@ -13,12 +13,13 @@ A Full Stack developer, passionate for programming. My objective is to convert i
 - AWS EC2
 - Git
   
-### 🖥️ Techniques
+### 🖥️ Skills
 
-- Robust backends using PHP/Laravel and fancy frontends with Vue.js and TailwindCSS.
-- CLI tools with Golang and Urfave, also robust backends with Gin.
+- Robust backends using PHP/Laravel
+- Fancy frontends with Vue.js and TailwindCSS.
+- CLI tools with Golang and Urfave
+- Robust backends with Gin.
 - Container orchestration with Docker.
-- Amazon Web Services EC2 management for the deployment of applications. 
+- AWS (Amazon Web Services) EC2. 
 - GitHub CI/CD (Continuous Integration / Continuous Delivery).
-- Design patterns and code refatoring.
-- Security practices.
+- Use of design patterns and code refatoring.
